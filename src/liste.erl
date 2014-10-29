@@ -11,3 +11,7 @@
 
 %% API
 -export([]).
+
+
+
+insert(List, _Elem, _Index)  ->List.
