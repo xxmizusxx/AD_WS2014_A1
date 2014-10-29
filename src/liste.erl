@@ -15,3 +15,6 @@
 
 
 insert(List, _Elem, _Index)  ->List.
+
+
+push(_Liste) -> {}.
